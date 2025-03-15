@@ -332,6 +332,4 @@ document.addEventListener("DOMContentLoaded", () => {
   
     // Initialize the quiz
     initQuiz()
-  })
-  
-  
+  })  
