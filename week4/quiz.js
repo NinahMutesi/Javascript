@@ -302,7 +302,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
       if (percentage >= 80) {
         message = "Amazing! You're a nerdy joke master!"
-  
+        
         // Show celebration splash for scores 8 and above
         if (score >= 8) {
           showCelebration()
